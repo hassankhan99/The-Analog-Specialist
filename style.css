@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    margin: auto;
+
+}
+body{
+    background-color: #d4aa72;
+    
+}
+#one {
+    font-size: 0px;
+}
+
+#two {
+    font-size: 10px;
+}
+
+
+
+ul {
+    width: 570px;
+    padding: 15px;
+    margin: 0px auto 0px auto;
+    border-top: 2px solid #000;
+    border-bottom: 1px solid #000;
+    text-align: center;
+    
+}
+
+li {
+    display: inline;
+    margin: 0px 15px;
+
+}
+
+
+.images{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 15px;
+
+}
+.images img{
+    width: 190px;
+    height: 180px;
+}
+p{
+    text-align: center;
+    width: 500px;
+   margin: 20px auto 20px auto;
+   font-weight: normal;
+   font-size: 20px;
+}
