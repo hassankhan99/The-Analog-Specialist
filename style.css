@@ -1,18 +1,28 @@
+*{
+    text-decoration: none;
+}
+
+
 h1 {
     text-align: center;
     margin: auto;
+   
 
 }
-body{
+
+body {
     background-color: #d4aa72;
-    
+    border: 4px double #000
 }
+
 #one {
     font-size: 0px;
+    font-style: italic;
 }
 
 #two {
     font-size: 10px;
+
 }
 
 
@@ -24,8 +34,9 @@ ul {
     border-top: 2px solid #000;
     border-bottom: 1px solid #000;
     text-align: center;
-    
+
 }
+
 
 li {
     display: inline;
@@ -34,21 +45,23 @@ li {
 }
 
 
-.images{
+.images {
     align-items: center;
     justify-content: center;
     display: flex;
     margin-top: 15px;
 
 }
-.images img{
+
+.images img {
     width: 190px;
     height: 180px;
 }
-p{
+
+p {
     text-align: center;
     width: 500px;
-   margin: 20px auto 20px auto;
-   font-weight: normal;
-   font-size: 20px;
+    margin: 20px auto 20px auto;
+    font-weight: normal;
+    font-size: 20px;
 }
